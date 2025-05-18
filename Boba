@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <header>
+      <title>Bubble Tea Website!</title>
+       rel="stylesheet" type="text/css"/>
+    </header>
+    <body>
+      <h1> Hi there! My name is Victoria Yefymenko. I am a grade 11 student from St. Michael Catholic Secondary School, and my favourite flavours of bubble tea are matcha, brown sugar milk tea, passionfruit, and taro! </h1>
+      <img src="https://www.thespruceeats.com/thmb/_x5cGFh26Ecf32WFCyql4y9OLaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/types-of-bubble-tea-766451-hero-01-a6dca4dd096a4d8abdde1a754766f851.jpg">
+    </body> 
+</html>
+
+h1 {
+        font-family: sans-serif;
+        color: #FFC0CB;    
+    }    
+    </body>
